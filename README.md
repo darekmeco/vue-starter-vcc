@@ -1,2 +1,2 @@
-# vue-starter-vcc
-Vue Starter with Vue Class Component
+# vue-starter-basic
+Vue basic starter
